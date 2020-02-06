@@ -1,0 +1,1 @@
+Sports data has been collected from twitter, NY times and web, performed MapReduce analysis algorithm using python on HDFS architecture for processing and visualized the data based on the most frequently occurred basis using Tableau visualization tool.
